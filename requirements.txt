@@ -1,6 +1,7 @@
-streamlit
-opencv-python-headless
-numpy
-plotly
-ultralytics
-scikit-fuzzy
+streamlit>=1.30.0
+opencv-python-headless>=4.8.0.76
+numpy>=1.23.5,<2.0.0
+scipy>=1.10.1
+plotly>=5.18.0
+ultralytics>=8.1.0
+scikit-fuzzy==0.4.2
